@@ -10,6 +10,7 @@ package elite.intel.ai.brain;
  * - FRIENDLY: Emulates a casual and approachable tone with friendly and informal responses.
  * - UNHINGED: Exhibits playful and humorous energy using light sarcasm and informal slang.
  * - ROGUE: Demonstrates bold and outspoken communication with heavy use of jargon and wit.
+ * - FRIDAY: Recreation of tony starks AI persona
  * <p>
  * This enum is intended to be used in scenarios where the AI's tone and style
  * of interaction need to match specific contextual or user preferences.
